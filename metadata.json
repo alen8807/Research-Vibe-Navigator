@@ -1,0 +1,5 @@
+{
+  "name": "Research Vibe Navigator",
+  "description": "An AI-powered research assistant that evaluates your abstract, providing a trend vibe check, visual complexity analysis, and implementation roadmap using Gemini.",
+  "requestFramePermissions": []
+}
